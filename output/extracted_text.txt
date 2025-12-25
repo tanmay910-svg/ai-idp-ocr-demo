@@ -1,0 +1,1 @@
+Sample OCR output text generated after running the script on the invoice image.
